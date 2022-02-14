@@ -1,0 +1,198 @@
+﻿TITLE: (Degradation-level Assessment and Online Prognostics for Sliding Chair Failure on Point Machines)
+Timespan=All years. 
+
+"Title","Authors","Corporate Authors","Editors","Book Editors","Source Title","Publication Date","Publication Year","Volume","Issue","Part Number","Supplement","Special Issue","Beginning Page","Ending Page","Article Number","DOI","Conference Title","Conference Date","Total Citations","Average per Year","1900","1901","1902","1903","1904","1905","1906","1907","1908","1909","1910","1911","1912","1913","1914","1915","1916","1917","1918","1919","1920","1921","1922","1923","1924","1925","1926","1927","1928","1929","1930","1931","1932","1933","1934","1935","1936","1937","1938","1939","1940","1941","1942","1943","1944","1945","1946","1947","1948","1949","1950","1951","1952","1953","1954","1955","1956","1957","1958","1959","1960","1961","1962","1963","1964","1965","1966","1967","1968","1969","1970","1971","1972","1973","1974","1975","1976","1977","1978","1979","1980","1981","1982","1983","1984","1985","1986","1987","1988","1989","1990","1991","1992","1993","1994","1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020"
+
+"Degradation-level Assessment and Online Prognostics for Sliding Chair Failure on Point Machines","Atamuradov, Vepa; Medjaher, Kamal; Camci, Fatih; Dersin, Pierre; Zerhouni, Noureddine","","","","IFAC PAPERSONLINE","2018","2018","51","24","","","","208","213","","10.1016/j.ifacol.2018.09.579","10th International-Federation-of-Automatic-Control (IFAC) Symposium on Fault Detection, Supervision and Safety for Technical Processes (SAFEPROCESS)","AUG 29-31, 2018","3","1.00","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","2","1"
+
+Degradation-level Assessment and Online Prognostics for Sliding Chair Failure on Point Machines
+	2018
+	Conference: 10th International-Federation-of-Automatic-Control (IFAC) Symposium on Fault Detection, Supervision and Safety for Technical Processes (SAFEPROCESS)
+	Source Titles: IFAC PAPERSONLINE
+	Document Types: Proceedings Paper
+	Web of Science Core Collection
+	- Conference Proceedings Citation Index- Science
+	
+	Research Domains: SCIENCE TECHNOLOGY, SOCIAL SCIENCES
+	Databases: Web of Science Core Collection
+
+
+WoS query used to create this dataset:
+
+
+TS=(
+    ((prognostic OR prognosis) AND ("remaining useful life" OR degradation OR "predictive maintenance"))
+    OR 
+    ((machinery OR machine) AND (prognostic OR prognosis OR "fault detection" OR "fault diagnostic" OR "fault diagnosis" OR "predictive maintenance"))
+   )
+-> 25,849
+
+AND CF=(IFAC* OR PHM* OR ESREL* OR RAM* OR prognostics*)
+AND CF=(IFAC* OR PHM* OR ESREL* OR RAM* OR prognostics* OR maintenance*)
+
+
+TS=(
+    ((prognostic OR prognosis) AND (remaining useful life OR degradation OR predictive maintenance))
+    OR 
+    ((machinery OR machine) AND (prognostic OR prognosis OR fault detection OR fault diagnostic OR fault diagnosis OR predictive maintenance))
+   )
+NOT SU=(Medical Informatics OR Biology OR Medicine OR Surgery OR Oncology OR Hematology OR Pathology OR Pharmacology & Pharmacy OR Genetics & Heredity OR Endocrinology & Metabolism Medical Laboratory Technology OR Other Topics)
+
+
+
+TS=(((prognostic OR prognosis) AND (remaining useful life OR degradation)) OR 
+    (machinery AND (fault detection OR fault diagnostic OR fault diagnosis)) OR 
+    (machinery prognostic AND maintenance) OR
+    (machinery prognostic AND decision making) OR
+    (machinery prognostic AND machine learning))
+AND (SU=(Engineering OR 
+     Instruments & Instrumentation OR 
+     Automation & Control Systems OR 
+     Robotics OR Computer Science OR 
+     Operations Research & Management OR 
+     Mechanics OR 
+     Transportation)
+     NOT SU=(Medical Informatics)
+     NOT SO=(Journal of Statistical Software))
+
+AND LANGUAGE: (English)
+
+
+TS= Topic
+TI= Title
+AU= Author [Index]
+AI= Author Identifiers
+GP= Group Author [Index]
+ED= Editor
+SO= Publication Name [Index]
+DO= DOI
+PY= Year Published
+CF= Conference
+AD= Address
+OG= Organization-Enhanced [Index]
+OO= Organization
+SG= Suborganization
+SA= Street Address
+CI= City
+PS= Province/State
+CU= Country/Region
+ZP= Zip/Postal Code
+FO= Funding Agency
+FG= Grant Number
+FT= Funding Text
+SU= Research Area
+WC= Web of Science Category
+IS= ISSN/ISBN
+UT= Accession Number
+PMID= PubMed ID
+ALL= All Fields
+
+
+
+Results: 18,340
+(from Web of Science Core Collection)
+
+You searched for: (TS=( ((prognostic OR prognosis) AND (remaining useful life OR degradation OR predictive maintenance)) OR ((machinery OR machine) AND (prognostic OR prognosis OR fault detection OR fault diagnostic OR fault diagnosis OR predictive maintenance)) )) 
+
+AND LANGUAGE: (English)
+
+Refined by: RESEARCH AREAS: ( ENGINEERING OR THERMODYNAMICS OR COMPUTER SCIENCE OR MINING MINERAL PROCESSING OR AUTOMATION CONTROL SYSTEMS OR IMAGING SCIENCE PHOTOGRAPHIC TECHNOLOGY OR INSTRUMENTS INSTRUMENTATION OR ENERGY FUELS OR ENVIRONMENTAL SCIENCES ECOLOGY OR MATERIALS SCIENCE OR SCIENCE TECHNOLOGY OTHER TOPICS OR OPERATIONS RESEARCH MANAGEMENT SCIENCE OR ELECTROCHEMISTRY OR MECHANICS OR CONSTRUCTION BUILDING TECHNOLOGY OR TELECOMMUNICATIONS OR PHYSICS OR NUCLEAR SCIENCE TECHNOLOGY OR INFORMATION SCIENCE LIBRARY SCIENCE OR ACOUSTICS OR CHEMISTRY OR REMOTE SENSING OR MATHEMATICS OR ROBOTICS OR AGRICULTURE OR WATER RESOURCES OR TRANSPORTATION )
+
+
+
+
+=============================
+ Refresh QUERY on 2022-02-13
+=============================
+
+https://www.webofscience.com/wos/woscc/summary/19076034-caae-4b2d-a7c7-a4bd402fc790-23507ab5/relevance/1
+
+
+25,800 publications selected from "Web of Science Core Collection"
+
+
+((TS=( ((prognostic OR prognosis) AND (remaining useful life OR degradation OR predictive maintenance)) OR ((machinery OR machine) AND (prognostic OR prognosis OR fault detection OR fault diagnostic OR fault diagnosis OR predictive maintenance)) ))) AND (LA==("ENGLISH") AND SJ==("ENGINEERING" OR "COMPUTER SCIENCE" OR "AUTOMATION CONTROL SYSTEMS" OR "TELECOMMUNICATIONS" OR "PHYSICS" OR "MECHANICS" OR "ACOUSTICS" OR "MATHEMATICS" OR "OPERATIONS RESEARCH MANAGEMENT SCIENCE" OR "SCIENCE TECHNOLOGY OTHER TOPICS" OR "ENERGY FUELS" OR "INSTRUMENTS INSTRUMENTATION" OR "CHEMISTRY" OR "MATERIALS SCIENCE" OR "ROBOTICS" OR "TRANSPORTATION" OR "THERMODYNAMICS" OR "MINING MINERAL PROCESSING" OR "IMAGING SCIENCE PHOTOGRAPHIC TECHNOLOGY" OR "ENVIRONMENTAL SCIENCES ECOLOGY" OR "ELECTROCHEMISTRY" OR "CONSTRUCTION BUILDING TECHNOLOGY" OR "NUCLEAR SCIENCE TECHNOLOGY" OR "INFORMATION SCIENCE LIBRARY SCIENCE" OR "REMOTE SENSING" OR "AGRICULTURE" OR "WATER RESOURCES"))
+
+
+-----
+
+
+(TS=( ((prognostic OR prognosis) AND (remaining useful life OR degradation OR predictive maintenance)) OR ((machinery OR machine) AND (prognostic OR prognosis OR fault detection OR fault diagnostic OR fault diagnosis OR predictive maintenance)) )) 
+
+and English (Languages) 
+
+and Engineering or Computer Science or Automation Control Systems or Telecommunications or Physics or Mechanics or Acoustics or Mathematics or Operations Research Management Science or Science Technology Other Topics or Energy Fuels or Instruments Instrumentation or Chemistry or Materials Science or Robotics or Transportation or Thermodynamics or Mining Mineral Processing or Imaging Science Photographic Technology or Environmental Sciences Ecology or Electrochemistry or Construction Building Technology or Nuclear Science Technology or Information Science Library Science or Remote Sensing or Agriculture or Water Resources (Research Areas)
+
+
+------------
+
+
+Extract "Full Record and Cited References":
+
+i = 1
+while i < 25801:
+    print(f'{i} {i+500-1}')
+    i += 500
+
+1 500
+501 1000
+1001 1500
+1501 2000
+2001 2500
+2501 3000
+3001 3500
+3501 4000
+4001 4500
+4501 5000
+5001 5500
+5501 6000
+6001 6500
+6501 7000
+7001 7500
+7501 8000
+8001 8500
+8501 9000
+9001 9500
+9501 10000
+10001 10500
+10501 11000
+11001 11500
+11501 12000
+12001 12500
+12501 13000
+13001 13500
+13501 14000
+14001 14500
+14501 15000
+15001 15500
+15501 16000
+16001 16500
+16501 17000
+17001 17500
+17501 18000
+18001 18500
+18501 19000
+19001 19500
+19501 20000
+20001 20500
+20501 21000
+21001 21500
+21501 22000
+22001 22500
+22501 23000
+23001 23500
+23501 24000
+24001 24500
+24501 25000
+25001 25500
+25501 26000
+
+
+
+
+Compress the result:
+tar -czvf  merged_wo_header_20220213_25800.tsv.tar.gz  merged_wo_header_20220213_25800.tsv
+
+
+
+
